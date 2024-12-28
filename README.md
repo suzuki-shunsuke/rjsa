@@ -2,13 +2,13 @@
 
 A command to release JavaScript action
 
-> ![CAUTION]
+> [!CAUTION]
 > I've developed this tool only for my JavaScript actions.
 > I don't assume that others use this tool.
 
 ## Requirements
 
-- gh
+- GitHub CLI
 - git
 - GNU sed
 - GitHub Access Token (contents:write, actions:write)
