@@ -58,4 +58,4 @@ fi
 gh release create "$VERSION" -p --title "$VERSION" -n "$note"
 
 # Delete a remote branch
-git push origin --delete "$branch"
+# git push origin --delete "$branch"
